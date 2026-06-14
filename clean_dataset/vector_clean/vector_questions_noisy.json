@@ -1,0 +1,36 @@
+[
+    {
+        "id": "Q2146",
+        "question": "Nếu chủ doanh nghiệp chết và công ty bị thông báo mất tích, liệu tôi có nên chờ đợi hay tìm cách liên hệ các cơ quan để bảo vệ quyền lợi của mình ngay lập tức?",
+        "type": "situation",
+        "article_id": [
+            "vbld_cxiii_d171_k1"
+        ],
+        "metadata": {
+            "topic": "General Labor Law"
+        },
+        "diagnostic": {
+            "assigned_article": "vbld_cxiii_d171_k1",
+            "assigned_score": 0.347,
+            "suggested_article": "vbld_ciii_m3_d34_k7",
+            "suggested_score": 0.5216
+        }
+    },
+    {
+        "id": "Q4379",
+        "question": "Có những loại thưởng nào được sử dụng phổ biến trong lao động?",
+        "type": "fact",
+        "article_id": [
+            "vbld_cxi_m3_d153_k3"
+        ],
+        "metadata": {
+            "topic": "General Labor Law"
+        },
+        "diagnostic": {
+            "assigned_article": "vbld_cxi_m3_d153_k3",
+            "assigned_score": 0.3422,
+            "suggested_article": "vbld_cvi_d104_k1",
+            "suggested_score": 0.629
+        }
+    }
+]
